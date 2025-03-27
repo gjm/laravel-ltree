@@ -21,8 +21,8 @@
   ],
   "license": "MIT",
   "require": {
-    "php": "^8.3|^8.4",
-    "laravel/framework": "^11.0",
+    "php": "^8.2|^8.3|^8.4",
+    "laravel/framework": "^10.0|^11.0",
     "doctrine/dbal": "^3.0",
     "umbrellio/laravel-pg-extensions": "^7.0",
     "umbrellio/laravel-common-objects": "*"
