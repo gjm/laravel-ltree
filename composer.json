@@ -24,7 +24,7 @@
     "php": "^8.2|^8.3|^8.4",
     "laravel/framework": "^10.0|^11.0|^12.0",
     "doctrine/dbal": "^3.0",
-    "umbrellio/laravel-pg-extensions": "^7.2",
+    "umbrellio/laravel-pg-extensions": "dev-siiue-laravel-12",
     "umbrellio/laravel-common-objects": "dev-siiue-laravel-12"
   },
   "require-dev": {
